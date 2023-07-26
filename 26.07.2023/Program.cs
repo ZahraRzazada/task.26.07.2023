@@ -1,0 +1,11 @@
+﻿using _26._07._2023;
+Console.WriteLine("Colanin Sayini daxil edin:");
+string Countstr = Console.ReadLine();
+int CountCola = Convert.ToInt32(Countstr);
+Cola cola = new Cola("3545346",0.7,CountCola,0.5);
+cola.SatishCola();
+Console.WriteLine("Plantin Sayini daxil edin:");
+string Countstr2 = Console.ReadLine();
+int CountPlant = Convert.ToInt32(Countstr2);
+Plant plant = new Plant("637283", 10, CountPlant, "flower");
+plant.SatishPlant();

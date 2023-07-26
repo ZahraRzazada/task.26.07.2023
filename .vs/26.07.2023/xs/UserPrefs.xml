@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DDE501C7-1011-418E-B4F8-4057EE13CDA1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.26.07.2023 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="26.07.2023/Cola.cs">
+    <Files>
+      <File FileName="26.07.2023/Program.cs" />
+      <File FileName="26.07.2023/Product.cs" />
+      <File FileName="26.07.2023/Cola.cs" Line="21" Column="1" />
+      <File FileName="26.07.2023/Plant.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="26.07.2023" expanded="True">
+            <Node name="26.07.2023" expanded="True">
+              <Node name="Cola.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
